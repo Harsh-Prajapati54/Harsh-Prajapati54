@@ -178,7 +178,7 @@ class HarshPrajapati:
 
 ---
 
-## 📈 GitHub Stats — Live & Auto-Synced 🔄
+## 📈 GitHub Stats 
 
 <div align="center">
 
@@ -193,7 +193,7 @@ class HarshPrajapati:
 
 ---
 
-## 🌿 Contribution Graph — Live & Auto-Synced 🔄
+## 🌿 Contribution Graph 
 
 <div align="center">
 
@@ -206,8 +206,8 @@ class HarshPrajapati:
   <img src="https://ghchart.rshah.org/39d353/Harsh-Prajapati54" alt="Harsh's GitHub Contribution Heatmap" style="border-radius:8px"/>
 </a>
 
-> 🔄 This graph mirrors the contribution heatmap on your profile and **auto-updates with every push** — no manual refresh needed!
-> 💡 For the fully **interactive heatmap** with hover tooltips & stats, open [`contribution-graph.html`](contribution-graph.html) in your browser.
+🔄 This graph auto-updates on every push. 
+💡 Open [`contribution-graph.html`](contribution-graph.html) in your browser for the interactive version with tooltips and stats.
 
 </div>
 
