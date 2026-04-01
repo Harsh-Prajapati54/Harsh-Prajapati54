@@ -178,39 +178,41 @@ class HarshPrajapati:
 
 ---
 
-## 📈 GitHub Stats —  
+## 📈 GitHub Stats — Live & Auto-Synced 🔄
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Prajapati54&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF&icon_color=ff6b6b&text_color=c9d1d9&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prajapati54&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=c9d1d9&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Prajapati54&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prajapati54&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=6" height="170"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harsh-Prajapati54&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B61FF&ring=ff6b6b&fire=ff6b6b&currStreakLabel=7B61FF&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harsh-Prajapati54&theme=tokyonight&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=26a641&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🌿 Contribution Graph  
+## 🌿 Contribution Graph — Live & Auto-Synced 🔄
 
 <div align="center">
 
-[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Prajapati54&bg_color=0d1117&color=7B61FF&line=7B61FF&point=ff6b6b&area=true&area_color=7B61FF&hide_border=true&custom_title=Harsh%27s%20Contribution%20Activity&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Prajapati54&bg_color=0d1117&color=39d353&line=39d353&point=26a641&area=true&area_color=006d32&hide_border=true&custom_title=Harsh%27s%20Contribution%20Activity&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
 <!-- Interactive heatmap (open contribution-graph.html locally or host it) -->
 <a href="https://github.com/Harsh-Prajapati54">
-  <img src="https://ghchart.rshah.org/7B61FF/Harsh-Prajapati54" alt="Harsh's GitHub Contribution Heatmap" style="border-radius:8px"/>
+  <img src="https://ghchart.rshah.org/39d353/Harsh-Prajapati54" alt="Harsh's GitHub Contribution Heatmap" style="border-radius:8px"/>
 </a>
 
-
+> 🔄 This graph mirrors the contribution heatmap on your profile and **auto-updates with every push** — no manual refresh needed!
+> 💡 For the fully **interactive heatmap** with hover tooltips & stats, open [`contribution-graph.html`](contribution-graph.html) in your browser.
 
 </div>
 
 ---
+
 
 ## 🗺️ AI/ML Learning Roadmap
 
