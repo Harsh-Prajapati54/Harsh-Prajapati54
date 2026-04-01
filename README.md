@@ -178,7 +178,7 @@ class HarshPrajapati:
 
 ---
 
-## 📈 GitHub Stats — Live & Auto-Synced 🔄
+## 📈 GitHub Stats —  
 
 <div align="center">
 
