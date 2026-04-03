@@ -52,7 +52,7 @@ class HarshPrajapati:
 
 ## 🧩 About Me
 
-- 🎓 **B.Tech CS** student from Ahmedabad, Gujarat 🇮🇳
+- 🎓 **B.Tech CS** student from  Gujarat 🇮🇳
 - 🤖 Deep passion for **NLP, LLMs, RAG pipelines & Chatbots**
 - 🏥 Exploring **AI for Healthcare** via my Medical\_X project
 - 🔥 Actively building with **PyTorch** — from scratch to fine-tuning
