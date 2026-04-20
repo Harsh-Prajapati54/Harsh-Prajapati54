@@ -206,8 +206,7 @@ class HarshPrajapati:
   <img src="https://ghchart.rshah.org/39d353/Harsh-Prajapati54" alt="Harsh's GitHub Contribution Heatmap" style="border-radius:8px"/>
 </a>
 
-🔄 This graph auto-updates on every push. 
-💡 Open [`contribution-graph.html`](contribution-graph.html) in your browser for the interactive version with tooltips and stats.
+
 
 </div>
 
