@@ -225,7 +225,7 @@ FOUNDATIONS ━━━━━━━━━━━━━━━━━━━━━━�
 
 DEEP LEARNING ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ✅  PyTorch Fundamentals (Tensors, Autograd)
-  🔄  CNNs & Computer Vision
+  ✅  CNNs & Computer Vision
   🔄  Transformers & Attention Mechanisms
   ⏳  Model Fine-Tuning & PEFT (LoRA)
 
@@ -234,7 +234,7 @@ NLP & LLMs ━━━━━━━━━━━━━━━━━━━━━━━
   ✅  RAG Pipelines (Retrieval + Generation)
   🔄  Vector Databases (FAISS, Chroma)
   🔄  LangChain & Agent Frameworks
-  ⏳  LLM Evaluation & Prompt Engineering
+  🔄  LLM Evaluation & Prompt Engineering
 
 MLOps & DEPLOYMENT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ⏳  FastAPI / Streamlit for ML apps
