@@ -237,7 +237,7 @@ NLP & LLMs ━━━━━━━━━━━━━━━━━━━━━━━
   🔄  LLM Evaluation & Prompt Engineering
 
 MLOps & DEPLOYMENT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ⏳  FastAPI / Streamlit for ML apps
+  🔄  FastAPI / Streamlit for ML apps
   ⏳  Docker & Model Serving
   ⏳  CI/CD for ML pipelines
 
