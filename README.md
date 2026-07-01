@@ -232,7 +232,7 @@ DEEP LEARNING ━━━━━━━━━━━━━━━━━━━━━━
 NLP & LLMs ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ✅  Core NLP (Tokenization, NER, Sentiment)
   ✅  RAG Pipelines (Retrieval + Generation)
-  🔄  Vector Databases (FAISS, Chroma)
+  ✅  Vector Databases (Qdrant)
   🔄  LangChain & Agent Frameworks
   🔄  LLM Evaluation & Prompt Engineering
 
