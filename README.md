@@ -227,7 +227,7 @@ DEEP LEARNING ━━━━━━━━━━━━━━━━━━━━━━
   ✅  PyTorch Fundamentals (Tensors, Autograd)
   ✅  CNNs & Computer Vision
   🔄  Transformers & Attention Mechanisms
-  ⏳  Model Fine-Tuning & PEFT (LoRA)
+  🔄  Model Fine-Tuning & PEFT (LoRA)
 
 NLP & LLMs ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ✅  Core NLP (Tokenization, NER, Sentiment)
