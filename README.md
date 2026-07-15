@@ -98,7 +98,7 @@ class HarshPrajapati:
 <tr>
 <td width="50%">
 
-### 📚 [RAG---LEARN](https://github.com/Harsh-Prajapati54/RAG---LEARN)
+### 📚 [Ask-my-Paper](https://github.com/Harsh-Prajapati54/Ask-My-Paper)
 > Retrieval-Augmented Generation pipelines with LLMs
 
 - 🔍 Vector DB retrieval + generation
