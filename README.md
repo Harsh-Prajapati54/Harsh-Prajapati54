@@ -226,14 +226,14 @@ FOUNDATIONS ━━━━━━━━━━━━━━━━━━━━━━�
 DEEP LEARNING ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ✅  PyTorch Fundamentals (Tensors, Autograd)
   ✅  CNNs & Computer Vision
-  🔄  Transformers & Attention Mechanisms
+  ✅  Transformers & Attention Mechanisms
   🔄  Model Fine-Tuning & PEFT (LoRA)
 
 NLP & LLMs ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ✅  Core NLP (Tokenization, NER, Sentiment)
   ✅  RAG Pipelines (Retrieval + Generation)
   ✅  Vector Databases (Qdrant)
-  🔄  LangChain & Agent Frameworks
+  ✅  LangChain & Agent Frameworks
   🔄  LLM Evaluation & Prompt Engineering
 
 MLOps & DEPLOYMENT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
