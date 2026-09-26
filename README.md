@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:0d1117&height=180&section=header" width="100%"/>
 
 <h1>Harsh Prajapati</h1>
 <p>🤖 AI | ML Engineer in Making | NLP &amp; LLM Enthusiast</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&random=false&width=650&lines=🧠+B.Tech+CS+%7C+AI%2FML+Developer;🔍+Building+RAG+%26+LLM+Pipelines;🩺+Medical+AI+%7C+Computer+Vision;🎯+Open+Source+%7C+Real-World+AI;⚡+Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=650&lines=🧠+B.Tech+CE+%7C+AI%2FML+Developer;🔍+Building+RAG+%26+LLM+Pipelines;🏗️+Building+an+LLM+from+Scratch;🩺+Medical+AI+%7C+Computer+Vision;🎯+Open+Source+%7C+Real-World+AI;⚡+Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harsh-Prajapati54&style=for-the-badge&color=7B61FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Harsh-Prajapati54?style=for-the-badge&logo=github&color=orange&label=FOLLOWERS)](https://github.com/Harsh-Prajapati54?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Harsh-Prajapati54&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Harsh-Prajapati54?style=for-the-badge&logo=github&color=22C55E&label=FOLLOWERS)](https://github.com/Harsh-Prajapati54?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-prajapati-393759296)
 
 </div>
@@ -26,10 +26,10 @@
 ```python
 class HarshPrajapati:
     name       = "Harsh Prajapati"
-    location   = "Earth🌏"
-    education  = "B.Tech in Computer Science & IT"
+    location   = "Gujarat, India 🇮🇳"
+    education  = "B.Tech in Computer Engineering (AI/ML Specialization)"
     passion    = ["NLP", "LLMs", "RAG Systems", "Medical AI"]
-    currently  = "Building real-world AI/ML projects"
+    currently  = "Building an LLM from scratch + real-world AI/ML projects"
     goals      = [
         "🎯 Land my first AI/ML role",
         "🌍 Contribute to open-source AI",
@@ -52,19 +52,37 @@ class HarshPrajapati:
 
 ## 🧩 About Me
 
-- 🎓 **B.Tech CS** student from  Gujarat 🇮🇳
+- 🎓 **B.Tech in Computer Engineering (AI/ML Specialization)** — Gujarat 🇮🇳
 - 🤖 Deep passion for **NLP, LLMs, RAG pipelines & Chatbots**
+- 🏗️ Currently **building a GPT-style LLM from scratch** — tokenizer to training loop
 - 🏥 Exploring **AI for Healthcare** via my Medical\_X project
 - 🔥 Actively building with **PyTorch** — from scratch to fine-tuning
 - 🌱 Building open-source projects to grow with the AI community
 - 🎯 Goal: **First AI/ML job** + meaningful open-source contributions
-- 💬 Ask me about: `Machine Learning` · `NLP` · `RAG` · `PyTorch`
+- 💬 Ask me about: `Machine Learning` · `NLP` · `RAG` · `PyTorch` · `LLMs from Scratch`
 
 ---
 
 ## 🚀 My Projects
 
 <table>
+<tr>
+<td colspan="2" align="center">
+
+### 🏗️ [LLM-from-Scratch](https://github.com/Harsh-Prajapati54/LLM-from-Scratch) <sub>*(drop in your repo link)*</sub>
+> Building a GPT-style Large Language Model from the ground up — early-stage, actively evolving
+
+- 🔤 Tokenizer & embeddings built from first principles
+- 🧠 Transformer blocks — self-attention, multi-head attention, positional encoding
+- 🏋️ Custom pretraining loop with loss tracking
+- 🎯 Fine-tuning on top of the base model
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -178,40 +196,36 @@ class HarshPrajapati:
 
 ---
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Prajapati54&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prajapati54&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh-Prajapati54&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prajapati54&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=6" height="170"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harsh-Prajapati54&theme=tokyonight&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=26a641&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harsh-Prajapati54&theme=dark&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=a3e635&currStreakLabel=22c55e&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🌿 Contribution Graph 
+## 🌿 Contribution Graph
 
 <div align="center">
 
-[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Prajapati54&bg_color=0d1117&color=39d353&line=39d353&point=26a641&area=true&area_color=006d32&hide_border=true&custom_title=Harsh%27s%20Contribution%20Activity&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Prajapati54&bg_color=0d1117&color=22c55e&line=22c55e&point=a3e635&area=true&area_color=14532d&hide_border=true&custom_title=Harsh%27s%20Contribution%20Activity&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
-<!-- Interactive heatmap (open contribution-graph.html locally or host it) -->
 <a href="https://github.com/Harsh-Prajapati54">
-  <img src="https://ghchart.rshah.org/39d353/Harsh-Prajapati54" alt="Harsh's GitHub Contribution Heatmap" style="border-radius:8px"/>
+  <img src="https://ghchart.rshah.org/22c55e/Harsh-Prajapati54" alt="Harsh's GitHub Contribution Heatmap" style="border-radius:8px"/>
 </a>
 
-
-
 </div>
 
 ---
-
 
 ## 🗺️ AI/ML Learning Roadmap
 
@@ -234,6 +248,7 @@ NLP & LLMs ━━━━━━━━━━━━━━━━━━━━━━━
   ✅  RAG Pipelines (Retrieval + Generation)
   ✅  Vector Databases (Qdrant)
   ✅  LangChain & Agent Frameworks
+  🔄  Building an LLM from Scratch (tokenizer → transformer → training)
   🔄  LLM Evaluation & Prompt Engineering
 
 MLOps & DEPLOYMENT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -273,6 +288,6 @@ If you're working on something cool in NLP, LLMs, or Medical AI — **let's talk
 
 *Built with* 💻 *·* ☕ *·* 🔥 *by Harsh Prajapati*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:14532d,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
