@@ -69,7 +69,7 @@ class HarshPrajapati:
 <tr>
 <td colspan="2" align="center">
 
-### 🏗️ [LLM-from-Scratch](https://github.com/Harsh-Prajapati54/LLM-from-Scratch) <sub>*(drop in your repo link)*</sub>
+### 🏗️ [LLM-from-Scratch](https://github.com/Harsh-Prajapati54/LLM-from-Scratch)
 > Building a GPT-style Large Language Model from the ground up — early-stage, actively evolving
 
 - 🔤 Tokenizer & embeddings built from first principles
