@@ -248,7 +248,7 @@ NLP & LLMs ━━━━━━━━━━━━━━━━━━━━━━━
   ✅  RAG Pipelines (Retrieval + Generation)
   ✅  Vector Databases (Qdrant)
   ✅  LangChain & Agent Frameworks
-  🔄  Building an LLM from Scratch (tokenizer → transformer → training)
+  ✅  Building an LLM from Scratch (tokenizer → transformer → training)
   🔄  LLM Evaluation & Prompt Engineering
 
 MLOps & DEPLOYMENT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
